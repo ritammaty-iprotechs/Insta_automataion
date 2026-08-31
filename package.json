@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Automated Instagram daily poster - backend",
   "main": "src/server.js",
+  "type": "module",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js"
